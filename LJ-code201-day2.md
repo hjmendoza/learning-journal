@@ -1,9 +1,8 @@
 # LJ Code 201 - Day 2 - January 10 2018
-## Lab 2
-Today we started our second lab project -- About Me
-We learned how to link together our index HTML file to our js and css files
+Today we started our second lab project, About Me.
+We learned how to link together our index HTML file to our js and css files.
 Code snippet: 
-<!DOCTYPE html>
+```<!DOCTYPE html>
 <html>
     <head>
         <title>About Me</title>
@@ -14,8 +13,9 @@ Code snippet:
         <script src="app.js"></script>
     </body>
 </html>
+```
 
-##Documentation
+## Documentation
 In addition, we learned the importance of documentation -- a series of documents that describe what a code does and how to use it. 
 
 We used documentation to learn how to create respositories on GitHub
